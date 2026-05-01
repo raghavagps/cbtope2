@@ -2,6 +2,9 @@
 
 This repository contains the standalone code for CBTOPE2 prediction tool. CBTOPE2 is an antibody interacting residues predictor. To support the scientific community, we have developed a standalone software and web server for the tool. For a user-friendly access to CBTOPE2, please use https://webs.iiitd.edu.in/raghava/cbtope2/.
 
+## dataset folder
+Contain all the datasets
+
 ## Installation (dependencies)
 
 ## 1. Standalone
