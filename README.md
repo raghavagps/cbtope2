@@ -5,6 +5,9 @@ This repository contains the standalone code for CBTOPE2 prediction tool. CBTOPE
 ## dataset folder
 Contain all the datasets
 
+## Zenodo
+https://doi.org/10.5281/zenodo.19940087
+
 ## Installation (dependencies)
 
 ## 1. Standalone
